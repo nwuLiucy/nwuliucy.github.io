@@ -5,12 +5,7 @@
     {%- else -%}
       {%- assign avatar = site.avatar | relative_url -%}
     {%- endif -%}
-    <style>
-      img {
-            width: 100%;
-            height: auto;}
-      <img src="{{ avatar }}" class="author-avatar u-photo align-center" alt="{{ site.author }}">
-    </style>
+      <img style = "img {width: 100%;height: auto;}" src="{{ avatar }}" class="author-avatar u-photo align-center" alt="{{ site.author }}">
   </div>
 {%- endif %}
 
