@@ -1,7 +1,7 @@
 title: Chanter Liu
 description: A minimal and beautiful Jekyll theme best for writing and note-taking.
 author: Chanter Liu
-avatar: /logo.png
+avatar: /cat.jpg
 email: nwuliucyfoxmail.com
 
 plugins:
@@ -32,9 +32,9 @@ exclude:
 twitter:
   username: ngzhio
   card: summary
-logo: logo.png
+logo: cat.jpg
 social:
-  name: Shangzhi Huang
+  name: Chanter Liu
   links:
     - https://twitter.com/ngzhio
     - https://www.facebook.com/ngzhio
