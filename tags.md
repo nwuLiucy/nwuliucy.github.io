@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
-type: mytags
+type: tags
 title: Tags
 permalink: /mytags/
 ---
