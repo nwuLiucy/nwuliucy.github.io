@@ -3,6 +3,7 @@ description: 刘长友的个人主页
 author: Changyou Liu
 avatar: /lcy.png
 email: nwuliucyfoxmail.com
+location: Xi'an
 
 plugins:
   - jekyll-seo-tag
