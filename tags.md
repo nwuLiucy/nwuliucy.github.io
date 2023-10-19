@@ -1,5 +1,5 @@
 ---
 layout: archive-taxonomies
-type: categories
+type: tags
 permalink: /tags/
 ---
