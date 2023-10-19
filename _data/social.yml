@@ -4,3 +4,10 @@
 - title: GitHub
   url: https://github.com/nwuLiucy
   icon: fab fa-github
+- title: CSDN
+  url: https://blog.csdn.net/zero_hero001?spm=1000.2115.3001.5343
+  icon: fa fa-csdn
+- title: Bilibili
+  url: https://space.bilibili.com/102739382
+  icon: fa fa-bilibili
+
