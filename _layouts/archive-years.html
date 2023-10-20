@@ -2,8 +2,9 @@
 layout: page
 ---
 <head>
-  <link rel="icon" type="image/png" href="favicon.png">
+    {% include head.html %}
 </head>
+
 {{ content }}
 
 {%- assign taxonomies = site.posts | group_by_exp: "post", "post.date | date: '%Y'" -%}
